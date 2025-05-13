@@ -1,0 +1,19 @@
+🐾 Pet Adoption & Care Center Database
+
+📌 Project Title
+Pet Adoption & Care Center Management System (MySQL)
+
+🐶 Description
+This project simulates a full-featured relational database for managing a pet shelter and adoption center. It includes structured tables to manage pets, breeds, adoption applications, confirmed adoptions, veterinarians, and care history. The system is designed to improve operations by tracking the availability of pets, monitoring medical care, managing adoption processes, and recording vet visits and treatment notes. It mimics the real-life workflow of an adoption center to support better decision-making and record-keeping.
+
+⚙️ How to Run / Setup
+
+To run this project:
+
+1. Open MySQL CLI or a database GUI like **MySQL Workbench**, **DBeaver**, or **phpMyAdmin**.
+2. Ensure you have an empty database or create one:
+   ```sql
+   CREATE DATABASE pet_adoption_db;
+   USE pet_adoption_db;
+
+   ![ERD Diagram](image.png)
